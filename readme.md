@@ -1,6 +1,6 @@
-# This a simple calulator application using typescripta using Inquirer.
+# This a simple calulator application using typescripta and Inquirer.
 
 
-# using this link to watch the video on youtube in Urdu
+# Use the link below to watch the video tutorial on youtube (Urdu/hindi)
 
 https://www.youtube.com/watch?v=ByEMtvCWmcs
